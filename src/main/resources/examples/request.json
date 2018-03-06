@@ -1,0 +1,2445 @@
+{
+  "lang": "en",
+  "metadataJSON": {
+    "confidence": 0.85,
+    "donedate": "2018-02-15 10:19:51.670020",
+    "utterances": [
+      {
+        "emotion": "Mostly Negative",
+        "confidence": 0.86,
+        "end": 16.74,
+        "sentiment": "Negative",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            1
+          ],
+          [
+            [
+              "-",
+              1,
+              [
+                12,
+                17
+              ]
+            ]
+          ]
+        ],
+        "start": 5.59,
+        "donedate": "2018-02-15 10:19:41.571327",
+        "recvdate": "2018-02-15 10:19:39.144804",
+        "events": [
+          {
+            "start": 6.44,
+            "confidence": 0.95,
+            "end": 6.85,
+            "word": "Hi,"
+          },
+          {
+            "start": 6.85,
+            "confidence": 0.94,
+            "end": 7.06,
+            "word": "this"
+          },
+          {
+            "start": 7.06,
+            "confidence": 0.94,
+            "end": 7.29,
+            "word": "is"
+          },
+          {
+            "start": 8.75,
+            "confidence": 0.74,
+            "end": 9.36,
+            "word": "Penny"
+          },
+          {
+            "start": 9.36,
+            "confidence": 0.96,
+            "end": 9.71,
+            "word": "from"
+          },
+          {
+            "start": 10.16,
+            "confidence": 0.55,
+            "end": 10.45,
+            "word": "Kim"
+          },
+          {
+            "start": 10.45,
+            "confidence": 0.92,
+            "end": 10.68,
+            "word": "call"
+          },
+          {
+            "start": 10.68,
+            "confidence": 0.7,
+            "end": 11.16,
+            "word": "us"
+          },
+          {
+            "start": 12.09,
+            "confidence": 0.56,
+            "end": 12.16,
+            "word": "if"
+          },
+          {
+            "start": 12.16,
+            "confidence": 1,
+            "end": 12.29,
+            "word": "you'd"
+          },
+          {
+            "start": 12.29,
+            "confidence": 0.9,
+            "end": 12.43,
+            "word": "like"
+          },
+          {
+            "wordex": "to(2)",
+            "confidence": 0.94,
+            "end": 12.53,
+            "word": "to",
+            "start": 12.43
+          },
+          {
+            "start": 12.53,
+            "confidence": 0.92,
+            "end": 12.97,
+            "word": "cancel"
+          },
+          {
+            "wordex": "your(2)",
+            "confidence": 0.83,
+            "end": 13.17,
+            "word": "your",
+            "start": 12.97
+          },
+          {
+            "start": 13.17,
+            "confidence": 0.91,
+            "end": 13.75,
+            "word": "current"
+          },
+          {
+            "start": 15.08,
+            "confidence": 0.94,
+            "end": 15.21,
+            "word": "I'm"
+          },
+          {
+            "start": 15.21,
+            "confidence": 0.98,
+            "end": 15.46,
+            "word": "sorry."
+          },
+          {
+            "wordex": "What(3)",
+            "confidence": 0.91,
+            "end": 15.58,
+            "word": "What",
+            "start": 15.46
+          },
+          {
+            "wordex": "was(2)",
+            "confidence": 0.9,
+            "end": 15.71,
+            "word": "was",
+            "start": 15.58
+          },
+          {
+            "start": 15.71,
+            "confidence": 0.92,
+            "end": 15.85,
+            "word": "that"
+          },
+          {
+            "start": 15.85,
+            "confidence": 0.89,
+            "end": 16.13,
+            "word": "again?"
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 0,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.87,
+        "end": 32.25,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 24.11,
+        "donedate": "2018-02-15 10:19:41.641917",
+        "recvdate": "2018-02-15 10:19:39.200349",
+        "events": [
+          {
+            "start": 25.45,
+            "confidence": 0.58,
+            "end": 25.48,
+            "word": "Oh,"
+          },
+          {
+            "start": 26.34,
+            "confidence": 0.77,
+            "end": 26.77,
+            "word": "okay,"
+          },
+          {
+            "start": 26.77,
+            "confidence": 0.78,
+            "end": 26.91,
+            "word": "I"
+          },
+          {
+            "wordex": "just(2)",
+            "confidence": 0.97,
+            "end": 27.23,
+            "word": "just",
+            "start": 26.91
+          },
+          {
+            "start": 27.23,
+            "confidence": 0.89,
+            "end": 27.51,
+            "word": "need"
+          },
+          {
+            "wordex": "your(4)",
+            "confidence": 0.87,
+            "end": 27.71,
+            "word": "your",
+            "start": 27.51
+          },
+          {
+            "start": 28.25,
+            "confidence": 0.95,
+            "end": 28.61,
+            "word": "name"
+          },
+          {
+            "start": 28.61,
+            "confidence": 0.96,
+            "end": 28.99,
+            "word": "account"
+          },
+          {
+            "wordex": "and(2)",
+            "confidence": 0.9,
+            "end": 29.6,
+            "word": "and",
+            "start": 29.34
+          },
+          {
+            "wordex": "your(4)",
+            "confidence": 0.68,
+            "end": 29.9,
+            "word": "your",
+            "start": 29.6
+          },
+          {
+            "start": 30.34,
+            "confidence": 0.85,
+            "end": 30.54,
+            "word": "Pin"
+          },
+          {
+            "start": 30.54,
+            "confidence": 0.94,
+            "end": 31.05,
+            "word": "number"
+          },
+          {
+            "start": 31.18,
+            "confidence": 0.64,
+            "end": 31.31,
+            "word": "enter"
+          },
+          {
+            "wordex": "your(4)",
+            "confidence": 0.68,
+            "end": 31.44,
+            "word": "your",
+            "start": 31.31
+          },
+          {
+            "start": 31.44,
+            "confidence": 0.95,
+            "end": 31.98,
+            "word": "password."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 1,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.61,
+        "end": 51.18,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 44.78,
+        "donedate": "2018-02-15 10:19:43.978232",
+        "recvdate": "2018-02-15 10:19:39.206434",
+        "events": [
+          {
+            "start": 44.8,
+            "confidence": 0.83,
+            "end": 45.41,
+            "word": "Okay,"
+          },
+          {
+            "start": 45.41,
+            "confidence": 0.93,
+            "end": 45.5,
+            "word": "the"
+          },
+          {
+            "start": 45.5,
+            "confidence": 0.97,
+            "end": 45.73,
+            "word": "account"
+          },
+          {
+            "start": 45.73,
+            "confidence": 0.93,
+            "end": 45.95,
+            "word": "number"
+          },
+          {
+            "start": 45.95,
+            "confidence": 0.65,
+            "end": 46.21,
+            "word": "is"
+          },
+          {
+            "start": 46.21,
+            "confidence": 0.54,
+            "end": 51.18,
+            "word": "11421172."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 2,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.88,
+        "end": 51.87,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 49.9,
+        "donedate": "2018-02-15 10:19:43.978842",
+        "recvdate": "2018-02-15 10:19:39.224447",
+        "events": [
+          {
+            "start": 51.24,
+            "confidence": 0.88,
+            "end": 51.79,
+            "word": "Okay"
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 3,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.8,
+        "end": 56.88,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 53.5,
+        "donedate": "2018-02-15 10:19:43.979176",
+        "recvdate": "2018-02-15 10:19:39.226766",
+        "events": [
+          {
+            "start": 54.26,
+            "confidence": 0.87,
+            "end": 55.09,
+            "word": "143."
+          },
+          {
+            "start": 56.18,
+            "confidence": 0.66,
+            "end": 56.61,
+            "word": "Alright."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 4,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.9,
+        "end": 62.07,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 59.56,
+        "donedate": "2018-02-15 10:19:44.779518",
+        "recvdate": "2018-02-15 10:19:39.886335",
+        "events": [
+          {
+            "start": 60.16,
+            "confidence": 0.95,
+            "end": 60.25,
+            "word": "I"
+          },
+          {
+            "start": 60.25,
+            "confidence": 0.92,
+            "end": 60.43,
+            "word": "need"
+          },
+          {
+            "wordex": "your(4)",
+            "confidence": 0.93,
+            "end": 60.54,
+            "word": "your",
+            "start": 60.43
+          },
+          {
+            "start": 60.54,
+            "confidence": 0.91,
+            "end": 60.91,
+            "word": "current"
+          },
+          {
+            "start": 60.91,
+            "confidence": 0.93,
+            "end": 61.26,
+            "word": "address"
+          },
+          {
+            "wordex": "to(2)",
+            "confidence": 0.59,
+            "end": 61.38,
+            "word": "to",
+            "start": 61.26
+          },
+          {
+            "start": 61.38,
+            "confidence": 0.91,
+            "end": 61.67,
+            "word": "change"
+          },
+          {
+            "start": 61.67,
+            "confidence": 0.91,
+            "end": 61.84,
+            "word": "it."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 5,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.78,
+        "end": 70.25,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 68.84,
+        "donedate": "2018-02-15 10:19:45.146990",
+        "recvdate": "2018-02-15 10:19:40.674238",
+        "events": [
+          {
+            "start": 69.1,
+            "confidence": 0.55,
+            "end": 69.33,
+            "word": "Can"
+          },
+          {
+            "wordex": "and(4)",
+            "confidence": 0.86,
+            "end": 69.45,
+            "word": "and",
+            "start": 69.33
+          },
+          {
+            "wordex": "can(2)",
+            "confidence": 0.91,
+            "end": 69.6,
+            "word": "can",
+            "start": 69.45
+          },
+          {
+            "start": 69.6,
+            "confidence": 0.97,
+            "end": 69.69,
+            "word": "you"
+          },
+          {
+            "start": 69.69,
+            "confidence": 0.9,
+            "end": 69.95,
+            "word": "spell"
+          },
+          {
+            "start": 69.95,
+            "confidence": 0.55,
+            "end": 70.04,
+            "word": "that?"
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 6,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.9,
+        "end": 75.88,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 72.59,
+        "donedate": "2018-02-15 10:19:45.588402",
+        "recvdate": "2018-02-15 10:19:41.299528",
+        "events": [
+          {
+            "start": 72.81,
+            "confidence": 0.87,
+            "end": 73.26,
+            "word": "Okay"
+          },
+          {
+            "start": 75.08,
+            "confidence": 0.93,
+            "end": 75.69,
+            "word": "City."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 7,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.85,
+        "end": 82.08,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 78.13,
+        "donedate": "2018-02-15 10:19:46.721662",
+        "recvdate": "2018-02-15 10:19:42.084854",
+        "events": [
+          {
+            "start": 78.42,
+            "confidence": 0.64,
+            "end": 78.76,
+            "word": "Alright,"
+          },
+          {
+            "wordex": "and(2)",
+            "confidence": 0.9,
+            "end": 79.38,
+            "word": "and",
+            "start": 79.21
+          },
+          {
+            "start": 79.38,
+            "confidence": 0.88,
+            "end": 79.57,
+            "word": "then"
+          },
+          {
+            "start": 79.57,
+            "confidence": 0.93,
+            "end": 79.68,
+            "word": "the"
+          },
+          {
+            "start": 80.63,
+            "confidence": 0.93,
+            "end": 81.03,
+            "word": "address"
+          },
+          {
+            "start": 81.03,
+            "confidence": 0.97,
+            "end": 81.09,
+            "word": "you"
+          },
+          {
+            "start": 81.09,
+            "confidence": 0.53,
+            "end": 81.21,
+            "word": "want"
+          },
+          {
+            "wordex": "to(3)",
+            "confidence": 0.94,
+            "end": 81.27,
+            "word": "to",
+            "start": 81.21
+          },
+          {
+            "start": 81.27,
+            "confidence": 0.91,
+            "end": 81.49,
+            "word": "change"
+          },
+          {
+            "start": 81.49,
+            "confidence": 0.91,
+            "end": 81.6,
+            "word": "it"
+          },
+          {
+            "start": 81.6,
+            "confidence": 0.94,
+            "end": 81.82,
+            "word": "to."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 8,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.85,
+        "end": 94.54,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 89.98,
+        "donedate": "2018-02-15 10:19:46.822013",
+        "recvdate": "2018-02-15 10:19:42.880156",
+        "events": [
+          {
+            "start": 93.41,
+            "confidence": 0.73,
+            "end": 93.68,
+            "word": "E"
+          },
+          {
+            "start": 93.68,
+            "confidence": 0.91,
+            "end": 93.93,
+            "word": "D"
+          },
+          {
+            "start": 93.93,
+            "confidence": 0.85,
+            "end": 94.06,
+            "word": "it's"
+          },
+          {
+            "start": 94.06,
+            "confidence": 0.91,
+            "end": 94.31,
+            "word": "18."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 9,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Mostly Negative",
+        "confidence": 0.81,
+        "end": 107.73,
+        "sentiment": "Negative",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            2
+          ],
+          [
+            [
+              "-",
+              1,
+              [
+                1,
+                5
+              ]
+            ],
+            [
+              "-",
+              1,
+              [
+                12,
+                14
+              ]
+            ]
+          ]
+        ],
+        "start": 101.24,
+        "donedate": "2018-02-15 10:19:47.374171",
+        "recvdate": "2018-02-15 10:19:43.717874",
+        "events": [
+          {
+            "start": 101.47,
+            "confidence": 0.96,
+            "end": 102.05,
+            "word": "Well,"
+          },
+          {
+            "start": 102.05,
+            "confidence": 0.79,
+            "end": 102.21,
+            "word": "we"
+          },
+          {
+            "start": 102.21,
+            "confidence": 0.67,
+            "end": 102.86,
+            "word": "can't"
+          },
+          {
+            "start": 102.95,
+            "confidence": 0.95,
+            "end": 103.22,
+            "word": "right"
+          },
+          {
+            "start": 103.22,
+            "confidence": 0.95,
+            "end": 103.88,
+            "word": "now"
+          },
+          {
+            "start": 104.95,
+            "confidence": 0.95,
+            "end": 105.12,
+            "word": "we"
+          },
+          {
+            "wordex": "can(2)",
+            "confidence": 0.61,
+            "end": 105.29,
+            "word": "can",
+            "start": 105.12
+          },
+          {
+            "start": 105.29,
+            "confidence": 0.55,
+            "end": 105.53,
+            "word": "change"
+          },
+          {
+            "wordex": "the(2)",
+            "confidence": 0.56,
+            "end": 105.67,
+            "word": "the",
+            "start": 105.53
+          },
+          {
+            "start": 105.67,
+            "confidence": 0.88,
+            "end": 105.97,
+            "word": "billing"
+          },
+          {
+            "start": 105.97,
+            "confidence": 0.93,
+            "end": 106.43,
+            "word": "address"
+          },
+          {
+            "wordex": "that(2)",
+            "confidence": 0.92,
+            "end": 106.55,
+            "word": "that",
+            "start": 106.43
+          },
+          {
+            "start": 106.55,
+            "confidence": 0.95,
+            "end": 106.64,
+            "word": "we"
+          },
+          {
+            "wordex": "cannot(2)",
+            "confidence": 0.6,
+            "end": 107.19,
+            "word": "cannot",
+            "start": 106.64
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 10,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Mostly Negative",
+        "confidence": 0.91,
+        "end": 114.31,
+        "sentiment": "Negative",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            1
+          ],
+          [
+            [
+              "-",
+              1,
+              [
+                8,
+                10
+              ]
+            ]
+          ]
+        ],
+        "start": 109.63,
+        "donedate": "2018-02-15 10:19:47.374489",
+        "recvdate": "2018-02-15 10:19:44.145199",
+        "events": [
+          {
+            "start": 109.88,
+            "confidence": 0.93,
+            "end": 110.5,
+            "word": "guarantee"
+          },
+          {
+            "start": 110.5,
+            "confidence": 0.95,
+            "end": 110.92,
+            "word": "internet"
+          },
+          {
+            "start": 110.92,
+            "confidence": 0.91,
+            "end": 111.32,
+            "word": "there"
+          },
+          {
+            "wordex": "and(2)",
+            "confidence": 0.63,
+            "end": 111.61,
+            "word": "and",
+            "start": 111.39
+          },
+          {
+            "start": 111.61,
+            "confidence": 0.77,
+            "end": 111.74,
+            "word": "I'll"
+          },
+          {
+            "start": 111.74,
+            "confidence": 0.96,
+            "end": 112.17,
+            "word": "be"
+          },
+          {
+            "start": 112.21,
+            "confidence": 0.95,
+            "end": 112.37,
+            "word": "in"
+          },
+          {
+            "start": 112.37,
+            "confidence": 0.98,
+            "end": 112.58,
+            "word": "three"
+          },
+          {
+            "start": 112.58,
+            "confidence": 0.92,
+            "end": 113.2,
+            "word": "months"
+          },
+          {
+            "start": 113.25,
+            "confidence": 0.98,
+            "end": 113.64,
+            "word": "available"
+          },
+          {
+            "start": 113.64,
+            "confidence": 0.62,
+            "end": 113.73,
+            "word": "in"
+          },
+          {
+            "start": 113.73,
+            "confidence": 0.78,
+            "end": 113.88,
+            "word": "three"
+          },
+          {
+            "start": 113.88,
+            "confidence": 0.92,
+            "end": 114.3,
+            "word": "months."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 11,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.84,
+        "end": 119.16,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 118.15,
+        "donedate": "2018-02-15 10:19:49.010084",
+        "recvdate": "2018-02-15 10:19:44.639465",
+        "events": [
+          {
+            "start": 118.35,
+            "confidence": 0.84,
+            "end": 118.78,
+            "word": "Yes."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 12,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.88,
+        "end": 135.09,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 125.72,
+        "donedate": "2018-02-15 10:19:49.028167",
+        "recvdate": "2018-02-15 10:19:45.214648",
+        "events": [
+          {
+            "start": 126.94,
+            "confidence": 0.88,
+            "end": 127.31,
+            "word": "Building"
+          },
+          {
+            "start": 127.81,
+            "confidence": 0.92,
+            "end": 128.32,
+            "word": "structure"
+          },
+          {
+            "start": 128.32,
+            "confidence": 0.95,
+            "end": 128.48,
+            "word": "right"
+          },
+          {
+            "start": 128.48,
+            "confidence": 0.94,
+            "end": 128.85,
+            "word": "now,"
+          },
+          {
+            "start": 130.09,
+            "confidence": 0.88,
+            "end": 130.33,
+            "word": "there's"
+          },
+          {
+            "start": 130.33,
+            "confidence": 0.95,
+            "end": 130.38,
+            "word": "a"
+          },
+          {
+            "start": 130.38,
+            "confidence": 0.9,
+            "end": 130.52,
+            "word": "lot"
+          },
+          {
+            "start": 130.52,
+            "confidence": 0.9,
+            "end": 130.58,
+            "word": "of"
+          },
+          {
+            "start": 130.58,
+            "confidence": 0.96,
+            "end": 131.09,
+            "word": "construction"
+          },
+          {
+            "start": 131.09,
+            "confidence": 0.87,
+            "end": 131.33,
+            "word": "going"
+          },
+          {
+            "start": 131.33,
+            "confidence": 0.93,
+            "end": 131.64,
+            "word": "on"
+          },
+          {
+            "wordex": "and(4)",
+            "confidence": 0.9,
+            "end": 131.81,
+            "word": "and",
+            "start": 131.67
+          },
+          {
+            "start": 131.81,
+            "confidence": 0.68,
+            "end": 131.94,
+            "word": "I'll"
+          },
+          {
+            "start": 131.94,
+            "confidence": 0.97,
+            "end": 132.17,
+            "word": "take"
+          },
+          {
+            "start": 132.17,
+            "confidence": 0.66,
+            "end": 132.31,
+            "word": "two"
+          },
+          {
+            "start": 132.31,
+            "confidence": 0.55,
+            "end": 132.63,
+            "word": "months."
+          },
+          {
+            "start": 132.63,
+            "confidence": 0.68,
+            "end": 132.88,
+            "word": "This"
+          },
+          {
+            "start": 132.88,
+            "confidence": 0.84,
+            "end": 133.09,
+            "word": "set"
+          },
+          {
+            "start": 133.09,
+            "confidence": 0.95,
+            "end": 133.32,
+            "word": "up"
+          },
+          {
+            "start": 133.48,
+            "confidence": 0.94,
+            "end": 133.68,
+            "word": "all"
+          },
+          {
+            "wordex": "the(2)",
+            "confidence": 0.93,
+            "end": 133.98,
+            "word": "the",
+            "start": 133.68
+          },
+          {
+            "start": 134.12,
+            "confidence": 0.9,
+            "end": 134.9,
+            "word": "cables."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 13,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0,
+        "donedate": "2018-02-15 10:19:49.639937",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "start": 138.05,
+        "end": 138.7,
+        "recvdate": "2018-02-15 10:19:45.753744",
+        "events": [],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 14,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Mostly Negative",
+        "confidence": 0.93,
+        "end": 143.63,
+        "sentiment": "Negative",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            1
+          ],
+          [
+            [
+              "-",
+              1,
+              [
+                3,
+                7
+              ]
+            ]
+          ]
+        ],
+        "start": 139.93,
+        "donedate": "2018-02-15 10:19:49.640341",
+        "recvdate": "2018-02-15 10:19:46.163436",
+        "events": [
+          {
+            "start": 140.15,
+            "confidence": 0.96,
+            "end": 140.42,
+            "word": "Well,"
+          },
+          {
+            "start": 140.42,
+            "confidence": 0.97,
+            "end": 140.56,
+            "word": "you"
+          },
+          {
+            "wordex": "can(2)",
+            "confidence": 0.91,
+            "end": 140.71,
+            "word": "can",
+            "start": 140.56
+          },
+          {
+            "start": 140.71,
+            "confidence": 0.92,
+            "end": 141.2,
+            "word": "cancel"
+          },
+          {
+            "wordex": "your(4)",
+            "confidence": 0.96,
+            "end": 141.36,
+            "word": "your",
+            "start": 141.2
+          },
+          {
+            "start": 141.36,
+            "confidence": 0.91,
+            "end": 141.73,
+            "word": "current"
+          },
+          {
+            "start": 141.73,
+            "confidence": 0.91,
+            "end": 142.08,
+            "word": "plan"
+          },
+          {
+            "wordex": "for(3)",
+            "confidence": 0.93,
+            "end": 142.26,
+            "word": "for",
+            "start": 142.08
+          },
+          {
+            "start": 142.26,
+            "confidence": 0.92,
+            "end": 143.54,
+            "word": "$500."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 15,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.89,
+        "end": 163.25,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 151.32,
+        "donedate": "2018-02-15 10:19:49.657910",
+        "recvdate": "2018-02-15 10:19:46.626182",
+        "events": [
+          {
+            "start": 151.32,
+            "confidence": 0.55,
+            "end": 151.34,
+            "word": "Oh"
+          },
+          {
+            "start": 151.91,
+            "confidence": 0.96,
+            "end": 152.44,
+            "word": "well"
+          },
+          {
+            "start": 153.37,
+            "confidence": 0.92,
+            "end": 153.74,
+            "word": "that"
+          },
+          {
+            "start": 153.74,
+            "confidence": 0.72,
+            "end": 154.15,
+            "word": "place"
+          },
+          {
+            "start": 154.15,
+            "confidence": 0.66,
+            "end": 154.34,
+            "word": "is"
+          },
+          {
+            "start": 154.97,
+            "confidence": 0.93,
+            "end": 155.08,
+            "word": "the"
+          },
+          {
+            "start": 155.08,
+            "confidence": 0.97,
+            "end": 155.39,
+            "word": "area"
+          },
+          {
+            "start": 155.39,
+            "confidence": 0.92,
+            "end": 155.52,
+            "word": "that"
+          },
+          {
+            "wordex": "you're(4)",
+            "confidence": 0.84,
+            "end": 155.63,
+            "word": "you're",
+            "start": 155.52
+          },
+          {
+            "start": 155.63,
+            "confidence": 0.96,
+            "end": 155.93,
+            "word": "moving"
+          },
+          {
+            "start": 155.93,
+            "confidence": 0.94,
+            "end": 156.06,
+            "word": "to"
+          },
+          {
+            "start": 156.06,
+            "confidence": 0.62,
+            "end": 156.16,
+            "word": "you"
+          },
+          {
+            "start": 156.16,
+            "confidence": 0.91,
+            "end": 156.31,
+            "word": "has"
+          },
+          {
+            "start": 156.31,
+            "confidence": 0.95,
+            "end": 156.38,
+            "word": "a"
+          },
+          {
+            "start": 156.38,
+            "confidence": 0.9,
+            "end": 156.51,
+            "word": "lot"
+          },
+          {
+            "start": 156.51,
+            "confidence": 0.9,
+            "end": 156.58,
+            "word": "of"
+          },
+          {
+            "start": 156.58,
+            "confidence": 0.79,
+            "end": 157.4,
+            "word": "construction"
+          },
+          {
+            "wordex": "and(2)",
+            "confidence": 0.9,
+            "end": 157.74,
+            "word": "and",
+            "start": 157.43
+          },
+          {
+            "start": 157.74,
+            "confidence": 0.89,
+            "end": 157.99,
+            "word": "there's"
+          },
+          {
+            "start": 158.17,
+            "confidence": 0.97,
+            "end": 158.46,
+            "word": "no"
+          },
+          {
+            "start": 158.49,
+            "confidence": 0.95,
+            "end": 158.73,
+            "word": "other"
+          },
+          {
+            "start": 158.73,
+            "confidence": 0.98,
+            "end": 159.29,
+            "word": "company"
+          },
+          {
+            "start": 159.58,
+            "confidence": 0.76,
+            "end": 160,
+            "word": "awfully"
+          },
+          {
+            "start": 160.03,
+            "confidence": 0.95,
+            "end": 160.45,
+            "word": "internet"
+          },
+          {
+            "start": 160.45,
+            "confidence": 0.91,
+            "end": 160.88,
+            "word": "there"
+          },
+          {
+            "start": 161.87,
+            "confidence": 0.96,
+            "end": 162.08,
+            "word": "at"
+          },
+          {
+            "start": 162.08,
+            "confidence": 0.93,
+            "end": 162.16,
+            "word": "the"
+          },
+          {
+            "start": 162.16,
+            "confidence": 0.98,
+            "end": 162.63,
+            "word": "moment"
+          },
+          {
+            "start": 162.94,
+            "confidence": 0.68,
+            "end": 162.97,
+            "word": "I."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 16,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Mostly Negative",
+        "confidence": 0.87,
+        "end": 180.87,
+        "sentiment": "Negative",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            1
+          ],
+          [
+            [
+              "-",
+              1,
+              [
+                8,
+                10
+              ]
+            ]
+          ]
+        ],
+        "start": 171.3,
+        "donedate": "2018-02-15 10:19:51.648707",
+        "recvdate": "2018-02-15 10:19:46.981605",
+        "events": [
+          {
+            "start": 171.5,
+            "confidence": 0.79,
+            "end": 172.06,
+            "word": "Yes,"
+          },
+          {
+            "start": 172.06,
+            "confidence": 0.94,
+            "end": 172.33,
+            "word": "but"
+          },
+          {
+            "start": 172.73,
+            "confidence": 0.87,
+            "end": 173.03,
+            "word": "there's"
+          },
+          {
+            "start": 173.03,
+            "confidence": 0.75,
+            "end": 173.11,
+            "word": "a"
+          },
+          {
+            "start": 173.11,
+            "confidence": 0.93,
+            "end": 173.27,
+            "word": "way"
+          },
+          {
+            "wordex": "to(3)",
+            "confidence": 0.92,
+            "end": 173.43,
+            "word": "to",
+            "start": 173.27
+          },
+          {
+            "start": 173.43,
+            "confidence": 0.86,
+            "end": 173.79,
+            "word": "avoid"
+          },
+          {
+            "start": 173.79,
+            "confidence": 0.93,
+            "end": 173.88,
+            "word": "the"
+          },
+          {
+            "start": 173.88,
+            "confidence": 0.99,
+            "end": 174.73,
+            "word": "cancellation"
+          },
+          {
+            "start": 174.73,
+            "confidence": 0.85,
+            "end": 175.13,
+            "word": "fee"
+          },
+          {
+            "wordex": "and(2)",
+            "confidence": 0.9,
+            "end": 175.62,
+            "word": "and",
+            "start": 175.13
+          },
+          {
+            "wordex": "because(3)",
+            "confidence": 0.89,
+            "end": 177.1,
+            "word": "because",
+            "start": 176.71
+          },
+          {
+            "start": 177.1,
+            "confidence": 0.94,
+            "end": 177.21,
+            "word": "if"
+          },
+          {
+            "start": 177.21,
+            "confidence": 0.97,
+            "end": 177.3,
+            "word": "you"
+          },
+          {
+            "start": 177.3,
+            "confidence": 0.92,
+            "end": 177.72,
+            "word": "cancel"
+          },
+          {
+            "start": 177.72,
+            "confidence": 0.85,
+            "end": 178.04,
+            "word": "it"
+          },
+          {
+            "start": 178.07,
+            "confidence": 0.9,
+            "end": 178.25,
+            "word": "you"
+          },
+          {
+            "start": 178.25,
+            "confidence": 0.93,
+            "end": 178.46,
+            "word": "have"
+          },
+          {
+            "start": 178.46,
+            "confidence": 0.89,
+            "end": 178.89,
+            "word": "another"
+          },
+          {
+            "start": 178.89,
+            "confidence": 0.57,
+            "end": 179.15,
+            "word": "a"
+          },
+          {
+            "start": 179.19,
+            "confidence": 0.71,
+            "end": 179.75,
+            "word": "fee"
+          },
+          {
+            "start": 179.75,
+            "confidence": 0.93,
+            "end": 180.07,
+            "word": "for"
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 17,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.86,
+        "end": 205.25,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 181.97,
+        "donedate": "2018-02-15 10:19:51.655429",
+        "recvdate": "2018-02-15 10:19:47.446502",
+        "events": [
+          {
+            "start": 182.24,
+            "confidence": 0.63,
+            "end": 182.39,
+            "word": "the"
+          },
+          {
+            "start": 182.39,
+            "confidence": 0.83,
+            "end": 182.65,
+            "word": "set"
+          },
+          {
+            "start": 182.65,
+            "confidence": 0.95,
+            "end": 182.86,
+            "word": "up"
+          },
+          {
+            "start": 182.86,
+            "confidence": 0.88,
+            "end": 183.43,
+            "word": "cost"
+          },
+          {
+            "start": 183.43,
+            "confidence": 0.59,
+            "end": 183.54,
+            "word": "in"
+          },
+          {
+            "start": 183.54,
+            "confidence": 0.64,
+            "end": 183.73,
+            "word": "three"
+          },
+          {
+            "start": 183.73,
+            "confidence": 0.92,
+            "end": 184.35,
+            "word": "months."
+          },
+          {
+            "start": 184.42,
+            "confidence": 0.95,
+            "end": 184.54,
+            "word": "I"
+          },
+          {
+            "start": 184.54,
+            "confidence": 0.9,
+            "end": 184.67,
+            "word": "would"
+          },
+          {
+            "start": 184.67,
+            "confidence": 0.97,
+            "end": 184.76,
+            "word": "you"
+          },
+          {
+            "start": 184.76,
+            "confidence": 0.94,
+            "end": 184.89,
+            "word": "like"
+          },
+          {
+            "wordex": "to(2)",
+            "confidence": 0.94,
+            "end": 184.99,
+            "word": "to",
+            "start": 184.89
+          },
+          {
+            "wordex": "hear(2)",
+            "confidence": 0.92,
+            "end": 185.14,
+            "word": "hear",
+            "start": 184.99
+          },
+          {
+            "start": 185.14,
+            "confidence": 0.96,
+            "end": 185.36,
+            "word": "about"
+          },
+          {
+            "start": 185.36,
+            "confidence": 0.91,
+            "end": 185.58,
+            "word": "it."
+          },
+          {
+            "start": 186.72,
+            "confidence": 0.62,
+            "end": 187.1,
+            "word": "So"
+          },
+          {
+            "start": 187.81,
+            "confidence": 0.65,
+            "end": 188.77,
+            "word": "there's"
+          },
+          {
+            "wordex": "a(2)",
+            "confidence": 0.67,
+            "end": 189.33,
+            "word": "a",
+            "start": 189.1
+          },
+          {
+            "start": 189.41,
+            "confidence": 0.95,
+            "end": 189.55,
+            "word": "we"
+          },
+          {
+            "wordex": "can(2)",
+            "confidence": 0.91,
+            "end": 189.73,
+            "word": "can",
+            "start": 189.55
+          },
+          {
+            "start": 189.73,
+            "confidence": 0.83,
+            "end": 189.96,
+            "word": "put"
+          },
+          {
+            "wordex": "your(4)",
+            "confidence": 0.73,
+            "end": 190.26,
+            "word": "your",
+            "start": 189.96
+          },
+          {
+            "start": 190.51,
+            "confidence": 0.95,
+            "end": 191.04,
+            "word": "contract"
+          },
+          {
+            "start": 191.04,
+            "confidence": 0.93,
+            "end": 191.18,
+            "word": "on"
+          },
+          {
+            "start": 191.18,
+            "confidence": 0.96,
+            "end": 191.57,
+            "word": "hold."
+          },
+          {
+            "start": 191.57,
+            "confidence": 0.55,
+            "end": 191.76,
+            "word": "You'll"
+          },
+          {
+            "wordex": "just(2)",
+            "confidence": 0.97,
+            "end": 191.95,
+            "word": "just",
+            "start": 191.76
+          },
+          {
+            "start": 191.95,
+            "confidence": 0.74,
+            "end": 192.06,
+            "word": "have"
+          },
+          {
+            "wordex": "to(2)",
+            "confidence": 0.93,
+            "end": 192.16,
+            "word": "to",
+            "start": 192.06
+          },
+          {
+            "start": 192.16,
+            "confidence": 0.88,
+            "end": 192.59,
+            "word": "pay"
+          },
+          {
+            "wordex": "the(2)",
+            "confidence": 0.56,
+            "end": 192.97,
+            "word": "the",
+            "start": 192.9
+          },
+          {
+            "start": 193.39,
+            "confidence": 0.97,
+            "end": 194.16,
+            "word": "$5"
+          },
+          {
+            "start": 194.16,
+            "confidence": 0.87,
+            "end": 194.42,
+            "word": "per"
+          },
+          {
+            "start": 194.42,
+            "confidence": 0.91,
+            "end": 194.8,
+            "word": "month"
+          },
+          {
+            "wordex": "to(2)",
+            "confidence": 0.94,
+            "end": 195.71,
+            "word": "to",
+            "start": 195.18
+          },
+          {
+            "start": 195.82,
+            "confidence": 0.95,
+            "end": 196.05,
+            "word": "keep"
+          },
+          {
+            "wordex": "your(4)",
+            "confidence": 0.84,
+            "end": 196.15,
+            "word": "your",
+            "start": 196.05
+          },
+          {
+            "start": 196.15,
+            "confidence": 0.95,
+            "end": 196.62,
+            "word": "contract"
+          },
+          {
+            "start": 196.62,
+            "confidence": 0.71,
+            "end": 197.16,
+            "word": "alive."
+          },
+          {
+            "wordex": "And(2)",
+            "confidence": 0.9,
+            "end": 198.63,
+            "word": "And",
+            "start": 198.48
+          },
+          {
+            "start": 198.63,
+            "confidence": 0.88,
+            "end": 198.86,
+            "word": "then"
+          },
+          {
+            "start": 198.86,
+            "confidence": 0.95,
+            "end": 199.02,
+            "word": "when"
+          },
+          {
+            "start": 199.02,
+            "confidence": 0.93,
+            "end": 199.12,
+            "word": "the"
+          },
+          {
+            "start": 199.12,
+            "confidence": 0.77,
+            "end": 199.47,
+            "word": "internet"
+          },
+          {
+            "start": 199.47,
+            "confidence": 0.65,
+            "end": 199.56,
+            "word": "is"
+          },
+          {
+            "start": 199.56,
+            "confidence": 0.98,
+            "end": 200.03,
+            "word": "available"
+          },
+          {
+            "start": 200.03,
+            "confidence": 0.88,
+            "end": 200.35,
+            "word": "will"
+          },
+          {
+            "start": 200.62,
+            "confidence": 0.89,
+            "end": 200.97,
+            "word": "start"
+          },
+          {
+            "start": 200.97,
+            "confidence": 0.95,
+            "end": 201.13,
+            "word": "up"
+          },
+          {
+            "start": 201.13,
+            "confidence": 0.98,
+            "end": 201.58,
+            "word": "again"
+          },
+          {
+            "start": 201.99,
+            "confidence": 0.55,
+            "end": 202.41,
+            "word": "um"
+          },
+          {
+            "wordex": "your(4)",
+            "confidence": 0.85,
+            "end": 202.91,
+            "word": "your",
+            "start": 202.69
+          },
+          {
+            "start": 202.94,
+            "confidence": 0.95,
+            "end": 203.38,
+            "word": "internet"
+          },
+          {
+            "start": 203.38,
+            "confidence": 0.96,
+            "end": 204.18,
+            "word": "Services"
+          },
+          {
+            "start": 204.7,
+            "confidence": 0.9,
+            "end": 205.17,
+            "word": "and."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 18,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.84,
+        "end": 224.3,
+        "sentiment": "Mixed",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            1,
+            1
+          ],
+          [
+            [
+              "+",
+              1,
+              [
+                4,
+                6
+              ]
+            ],
+            [
+              "-",
+              1,
+              [
+                9,
+                11
+              ]
+            ]
+          ]
+        ],
+        "start": 219.6,
+        "donedate": "2018-02-15 10:19:51.662788",
+        "recvdate": "2018-02-15 10:19:47.731080",
+        "events": [
+          {
+            "start": 220.24,
+            "confidence": 0.52,
+            "end": 220.59,
+            "word": "Yeah."
+          },
+          {
+            "wordex": "That(2)",
+            "confidence": 0.55,
+            "end": 220.68,
+            "word": "That",
+            "start": 220.59
+          },
+          {
+            "start": 220.68,
+            "confidence": 0.91,
+            "end": 220.92,
+            "word": "sounds"
+          },
+          {
+            "start": 220.92,
+            "confidence": 0.95,
+            "end": 220.97,
+            "word": "a"
+          },
+          {
+            "start": 220.97,
+            "confidence": 0.9,
+            "end": 221.15,
+            "word": "lot"
+          },
+          {
+            "wordex": "better(2)",
+            "confidence": 0.95,
+            "end": 221.41,
+            "word": "better",
+            "start": 221.15
+          },
+          {
+            "start": 221.41,
+            "confidence": 0.93,
+            "end": 221.55,
+            "word": "than"
+          },
+          {
+            "start": 221.55,
+            "confidence": 0.93,
+            "end": 221.65,
+            "word": "the"
+          },
+          {
+            "start": 221.65,
+            "confidence": 0.8,
+            "end": 222.51,
+            "word": "$500"
+          },
+          {
+            "start": 223.21,
+            "confidence": 0.99,
+            "end": 223.83,
+            "word": "cancellation"
+          },
+          {
+            "start": 223.83,
+            "confidence": 0.85,
+            "end": 224.16,
+            "word": "fee."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 19,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.59,
+        "end": 240.26,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 239.02,
+        "donedate": "2018-02-15 10:19:51.664962",
+        "recvdate": "2018-02-15 10:19:48.095135",
+        "events": [
+          {
+            "start": 239.72,
+            "confidence": 0.59,
+            "end": 239.98,
+            "word": "Today?"
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 20,
+          "channel": 0
+        }
+      },
+      {
+        "emotion": "Neutral",
+        "confidence": 0.93,
+        "end": 246.65,
+        "sentiment": "Neutral",
+        "recvtz": [
+          "EST",
+          -18000
+        ],
+        "gender": "female",
+        "sentimentex": [
+          [
+            0,
+            0
+          ],
+          []
+        ],
+        "start": 242.81,
+        "donedate": "2018-02-15 10:19:51.670020",
+        "recvdate": "2018-02-15 10:19:48.381517",
+        "events": [
+          {
+            "start": 243.38,
+            "confidence": 0.98,
+            "end": 243.63,
+            "word": "Thanks"
+          },
+          {
+            "wordex": "for(3)",
+            "confidence": 0.61,
+            "end": 243.71,
+            "word": "for",
+            "start": 243.63
+          },
+          {
+            "start": 243.71,
+            "confidence": 0.97,
+            "end": 244.05,
+            "word": "calling."
+          }
+        ],
+        "metadata": {
+          "source": "Audio2/USE_016003_20100812-152407-01_inLine.wav",
+          "model": "eng1:callcenter",
+          "uttid": 21,
+          "channel": 0
+        }
+      }
+    ],
+    "sentiment": "Negative",
+    "nchannels": 1,
+    "recvtz": [
+      "EST",
+      -18000
+    ],
+    "gender": "female",
+    "source": "USE_016003_20100812-152407-01_inLine.wav",
+    "client_data": {
+      "jm_version": "2.2.0-5",
+      "audio_properties": "PCM, CBR, 128 kb/s, 8000 Hz, 16 bits, 1 ch"
+    },
+    "app_data": {
+      "silence": "0.682",
+      "client_gender": "female",
+      "agent_clarity": null,
+      "agent_emotion": "",
+      "client_emotion": "Negative",
+      "overall_emotion": "Negative",
+      "datetime": "2018-02-15 15:19:39 UTC",
+      "scorecard": {},
+      "client_clarity": "0.846",
+      "overtalk": null,
+      "url": "http://vocis170407:3000/fileDetails/ClarabridgeInternal-NLP_Transcription_Quality/Appen/20180215101939/USE_016003_20100812-152407-01_inLine.wav",
+      "words": 256,
+      "client_channel": 0,
+      "tId": 643,
+      "agent_gender": null,
+      "duration": "0:04:06"
+    },
+    "requestid": "c7359310-b8a1-412f-943f-cb78e40a4081",
+    "sentiment_scores": [
+      1,
+      7
+    ],
+    "model": [
+      "eng1:callcenter"
+    ],
+    "recvdate": "2018-02-15 10:19:39.144804"
+  },
+  "sentences": [
+    {
+      "id": "s5879",
+      "words": "Hi, this is Penny from Kim call us if you would like to cancel your current I am sorry."
+    },
+    {
+      "id": "s5880",
+      "words": "What was that again?"
+    },
+    {
+      "id": "s5881",
+      "words": "Oh, okay, I just need your name account"
+    },
+    {
+      "id": "s5882",
+      "words": "your Pin number enter your password"
+    },
+    {
+      "id": "s5883",
+      "words": "Okay, the account number is 11421172."
+    },
+    {
+      "id": "s5884",
+      "words": "Okay 143."
+    },
+    {
+      "id": "s5885",
+      "words": "Alright."
+    },
+    {
+      "id": "s5886",
+      "words": "I need your current address to change it."
+    },
+    {
+      "id": "s5887",
+      "words": "Can and can you spell that?"
+    },
+    {
+      "id": "s5888",
+      "words": "Okay City."
+    },
+    {
+      "id": "s5889",
+      "words": "Alright, and then the address you want to change it to."
+    },
+    {
+      "id": "s5890",
+      "words": "E D it is 18."
+    },
+    {
+      "id": "s5891",
+      "words": "Well, we can not right now we can change the billing address that we can not guarantee internet there and I will be in three months available in three months."
+    },
+    {
+      "id": "s5892",
+      "words": "Yes."
+    },
+    {
+      "id": "s5893",
+      "words": "Building structure right now"
+    },
+    {
+      "id": "s5894",
+      "words": "there is a lot of construction going on"
+    },
+    {
+      "id": "s5895",
+      "words": "I will take two months"
+    },
+    {
+      "id": "s5896",
+      "words": "This set up all the cables."
+    },
+    {
+      "id": "s5897",
+      "words": "Well, you can cancel your current plan for $500."
+    },
+    {
+      "id": "s5898",
+      "words": "Oh well that place is the area that you are moving to you has a lot of construction and there is no other company awfully internet there at the moment I."
+    },
+    {
+      "id": "s5899",
+      "words": "Yes, but there is a way to avoid the cancellation fee and because if you cancel it you have another a fee for the set up cost in three months."
+    },
+    {
+      "id": "s5900",
+      "words": "I would you like to hear about it."
+    },
+    {
+      "id": "s5901",
+      "words": "So there is a we can put your contract on hold."
+    },
+    {
+      "id": "s5902",
+      "words": "You will just have to pay the $5 per month to keep your contract alive."
+    },
+    {
+      "id": "s5903",
+      "words": "And then when the internet is available will start up again um your internet Services and."
+    },
+    {
+      "id": "s5904",
+      "words": "Yeah."
+    },
+    {
+      "id": "s5905",
+      "words": "That sounds a lot better than the $500 cancellation fee."
+    },
+    {
+      "id": "s5906",
+      "words": "Today?"
+    },
+    {
+      "id": "s5907",
+      "words": "Thanks for calling."
+    }
+  ]
+}
